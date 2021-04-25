@@ -5,7 +5,7 @@
 
 ## About
 Movie Docs is part of a series of tutorials about ReactJs and NextJs
-In this tutorial we will learn about Server Side Render and Static Site Generation, you can learn more here [link]
+In this tutorial we will learn about Server Side Render and Static Site Generation, you can learn more here [Live Demo](https://moviedocs.vercel.app)
 
 ## Technologies
 
