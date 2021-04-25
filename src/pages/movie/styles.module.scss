@@ -1,0 +1,46 @@
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.content {
+  margin-top: -10rem;
+  display: flex;
+  justify-self: center;
+  background: var(--gray-750);
+  height: 23rem;
+
+  img {
+    width: 40%;
+    height: 100%;
+  }
+
+  section {
+    max-width: 700px;
+    padding: 0 2rem;
+    margin-top: 1rem;
+
+    h1 {
+      font-size: 2rem;
+      font-weight: bolder;
+    }
+    p {
+      margin-top: 1rem;
+      line-height: 1.80rem;
+    }
+    span {
+      margin-right: 1rem;
+    }
+    .rating {
+      display: flex;
+      margin-top: 3rem;
+
+      img {
+        width: 3rem;
+      }
+    }
+
+  }
+
+}
