@@ -16,9 +16,10 @@ In this tutorial we will learn about Server Side Render and Static Site Generati
 ## Install
 
 ```bash
-git clone https://github.com/thethiago27/moviedocs
-cd moviedocs
+git clone https://github.com/thethiago27/teste_fullstack
+cd teste_fullstack
 yarn
 
-yarn dev
+yarn build
+yarn start
 ```
